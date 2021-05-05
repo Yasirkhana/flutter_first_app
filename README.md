@@ -1,6 +1,5 @@
 # yasir_app_1
-
-A new Flutter project.
+My First Flutter App.
 
 ## SCREENSHOT
 ![SCREEENSHOT](Screenshot_yasir_app_1.jpg)
